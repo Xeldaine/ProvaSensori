@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProvaSensori</string>
+    <string name="label_proximity">Proximity Sensor: %1$.2f</string>
+    <string name="label_light">Light Sensor: %1$.2f</string>
+    <string name="label_steps">Step counter: %f</string>
+    <string name="azimuth_format"><b>Azimuth:</b> %1$.2f</string>
+    <string name="pitch_format"><b>Pitch:</b> %1$.2f</string>
+    <string name="roll_format"><b>Roll:</b> %1$.2f</string>
+    <string name="gyroscope_x"><b>GyroscopeX:</b> %1$.2f</string>
+    <string name="gyroscope_y"><b>GyroscopeY:</b> %1$.2f</string>
+    <string name="gyroscope_z"><b>GyroscopeZ:</b> %1$.2f</string>
+</resources>
